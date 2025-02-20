@@ -19,8 +19,8 @@ Este projeto consiste em um Gerenciador de Senhas desenvolvido em Python utiliza
 ## Instalação e Execução
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/codennomad/gerenciador-de-senhas.git
-   cd gerenciador-de-senhas
+   git clone https://github.com/codennomad/Password_Manager.git
+   cd Password_Manager
    ```
 2. Instale as dependências:
    ```sh
